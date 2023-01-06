@@ -4,5 +4,9 @@
         <members>ModifyOpportunity</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>AccountHelper_Trigger</members>
+        <name>ApexTrigger</name>
+    </types>
     <version>55.0</version>
 </Package>
